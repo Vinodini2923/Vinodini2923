@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 It's me Vinodini Sureshkumar
 
-<!--
-**Vinodini2923/Vinodini2923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I’m a Front-end Developer with a knack for creating dynamic, scalable, and efficient web applications. I thrive on building seamless, user-friendly interfaces using React.js and delivering robust solutions tailored to your needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 What I Do:
+- Proficient in HTML5 and CSS3, delivering clean, semantic, and accessible code.
+- Expertise in Bootstrap for creating responsive, mobile-first web designs with speed and precision.
+- Skilled in crafting dynamic and interactive user interfaces using JavaScript.
+- knowledge of React.js to build scalable, high-performance web applications.
+
+- 📫 How to reach me: 
+
+### I code in
+
+
+
