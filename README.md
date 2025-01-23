@@ -9,7 +9,7 @@ Hi, I’m a Front-end Developer with a knack for creating dynamic, scalable, and
 - Skilled in crafting dynamic and interactive user interfaces using JavaScript.
 - knowledge of React.js to build scalable, high-performance web applications.
 
-- 📫 How to reach me: 
+### 📫 How to reach me: 
 
 ### I code in
 
